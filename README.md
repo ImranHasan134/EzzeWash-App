@@ -29,9 +29,3 @@ The platform connects **customers and administrators** through a single integrat
 - Select services and schedule pickup
 - Track order status
 - Receive notifications
-
-### Admin Side
-- Manage orders
-- Update order status
-- Manage services and pricing
-- View reports and analytics
